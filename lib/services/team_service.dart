@@ -7,8 +7,8 @@ import 'package:http/http.dart';
 class TeamService {
   //Real Madrid 86
   final _uriTeams='https://api.football-data.org/v4/competitions/2014/teams';
-  final _uriPost='';
-  final String apikey='';
+  final _uriPost='';// Rellenar con url de firebase
+  final String apikey=''; // Rellenar con la api key de la api de football
   Future<TeamResponse> getAllTeams()async{
      Response response = await get(Uri.parse(_uriTeams),headers: {
       "X-Auth-Token":apikey
