@@ -1,16 +1,5 @@
-# ejemplo_t4
+# This aplication bring us the data of all teams on La Liga
+![image](https://github.com/user-attachments/assets/8c5eaab3-438a-4f61-b05f-3617198113e5)
+We can also add players clicking the plus icon
+![image](https://github.com/user-attachments/assets/bf250e0b-7341-44e7-9ccc-24fd50120f25)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
